@@ -1,29 +1,32 @@
 <h1 align="center">Hi 👋, I'm 我打代码养你啊</h1>
 
 <h3 align="center">A young-Code Lovers :computer: Future back-end developers from China in</h3>
-<!-- <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" /> -->
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=xiaoyivip alt=xiaoyivip/> </p>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-[![WordPress Blog](https://img.shields.io/badge/-Blog-21759B?style=flat&logo=WordPress&logoColor=white&link=https://www.waer.ltd)](https://www.waer.ltd)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mail@brennanbrown.ca)](mailto:2217021563@qq.com)
-![Pronouns](https://img.shields.io/badge/Pronouns-De梦%2FHe-brightgreen?style=flat)
-<a href="mailto:xuyi.waer@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-xuyi.waer@foxmail.com-blue?style=flat-square&logo=gmail"></a>
 
 
 
 
 
-Here are some ideas to get you started:
+### Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me:            	
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 软件专业在读大学生,Coding爱好者
+- 🌱 在学算法,服务器相关技术以及Java栈.
+- 👯 码不停题,约否?
+- 🤔 我的  [![WordPress Blog](https://img.shields.io/badge/-Blog-21759B?style=flat&logo=WordPress&logoColor=white&link=https://www.waer.ltd)](https://www.waer.ltd)
+- 📫 找我搞事情: 
+<a href="mailto:xuyi.waer@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-xuyi.waer@foxmail.com-blue?style=flat-square&logo=gmail"></a> 
+- 😄 江湖自称:  ![De](https://img.shields.io/badge/De-梦-brightgreen?style=flat) ![低](https://img.shields.io/badge/高-冷-brightgreen?style=flat) ![低](https://img.shields.io/badge/难-神-brightgreen?style=flat) ![低](https://img.shields.io/badge/A-C-brightgreen?style=flat)
+![低](https://img.shields.io/badge/技-宅-brightgreen?style=flat) ![低](https://img.shields.io/badge/我-用小米-brightgreen?style=flat) ![低](https://img.shields.io/badge/不相信-爱情-brightgreen?style=flat) ![低](https://img.shields.io/badge/小渣-渣-brightgreen?style=flat)
+![低](https://img.shields.io/badge/wo苣-菜-brightgreen?style=flat)
 
+
+
+> 今天的云很好看,
+> 我想拍给你看,
+> 却想到我们很久不联系了,
+> 突然觉得,其实云没那么好看了。
 
 
 ### Tech & Tools Preference
