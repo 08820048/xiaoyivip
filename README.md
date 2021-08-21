@@ -11,7 +11,7 @@
 
 ### Here are some ideas to get you started:
 
-- 🔭 软件专业在读大学生,Coding爱好者
+- 🔭 软件专业废物大学生,Coding爱好者
 - 🌱 在学算法,服务器相关技术以及Java栈.
 - 👯 码不停题,约否?
 - 🤔 我的  [![WordPress Blog](https://img.shields.io/badge/-Blog-21759B?style=flat&logo=WordPress&logoColor=white&link=https://www.waer.ltd)](https://www.waer.ltd)
