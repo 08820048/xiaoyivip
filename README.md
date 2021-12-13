@@ -19,7 +19,7 @@
 <a href="mailto:maropellegrin40@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-maropellegrin40@gmail.com-blue?style=flat-square&logo=gmail"></a> 
 - 😄 江湖自称:  ![De](https://img.shields.io/badge/De-梦-brightgreen?style=flat) ![低](https://img.shields.io/badge/高-冷-brightgreen?style=flat) ![低](https://img.shields.io/badge/难-神-brightgreen?style=flat) ![低](https://img.shields.io/badge/A-C-brightgreen?style=flat)
 ![低](https://img.shields.io/badge/技-宅-brightgreen?style=flat) ![低](https://img.shields.io/badge/我-用小米-brightgreen?style=flat) ![低](https://img.shields.io/badge/不相信-爱情-brightgreen?style=flat) ![低](https://img.shields.io/badge/小渣-渣-brightgreen?style=flat)
-![低](https://img.shields.io/badge/wo-苣菜-brightgreen?style=flat) ![低](https://img.shields.io/badge/公众号-白码手记-brightgreen?style=flat)
+![低](https://img.shields.io/badge/wo-苣菜-brightgreen?style=flat) ![低](https://img.shields.io/badge/公众号-代码不良人-brightgreen?style=flat)
 
 
 
