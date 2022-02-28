@@ -12,8 +12,8 @@
 ### Here are some ideas to get you started:
 
 - 🔭 软件专业废物大学生,Coding爱好者
-- 🌱 算法在学菜鸡,服务器相关技术以及Java栈.
-- 👯 码不停题,约否?
+- 🌱 好好学习，天天向上！
+- 👯 好好刷题，天天向上！
 - 🤔 我的  [![WordPress Blog](https://img.shields.io/badge/-Blog-21759B?style=flat&logo=WordPress&logoColor=white&link=https://www.waer.ltd)](https://www.waer.ltd)
 - 📫 找我搞事情: 
 <a href="mailto:maropellegrin40@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-maropellegrin40@gmail.com-blue?style=flat-square&logo=gmail"></a> 
