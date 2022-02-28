@@ -11,9 +11,10 @@
 
 ### Here are some ideas to get you started:
 
-- 🔭 软件专业废物大学生,Coding爱好者
-- 🌱 好好学习，天天向上！
-- 👯 好好刷题，天天向上！
+- 🔭 软件专业废物大学生,Coding爱好者！
+- 🌱 来啊 快活啊！反正有大把时光！
+- 👯 来啊 造作啊！反正有大把风光！
+- 😘 U2FsdGVkX185wTj/Yme2wE6dHQ7lN6vvfVTf5RDN0X2yA2hk4O96pgmThC6VaROp
 - 🤔 我的  [![WordPress Blog](https://img.shields.io/badge/-Blog-21759B?style=flat&logo=WordPress&logoColor=white&link=https://www.waer.ltd)](https://www.waer.ltd)
 - 📫 找我搞事情: 
 <a href="mailto:maropellegrin40@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-maropellegrin40@gmail.com-blue?style=flat-square&logo=gmail"></a> 
