@@ -12,8 +12,8 @@
 
 
 
-- 🔭 软件专业废物大学生,计算机就是第二个女盆友！
-- 🤔 个人博客  [Tisox`s Blog](https://www.waer.ltd)
+- 🔭 软件专业废物大学生！
+- 🤔 个人博客  [八尺妖剑の博客](https://www.waer.ltd)
 - 📫 联系邮箱: 
 <a href="mailto:ilikexff@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ilikexff@gmail.com-blue?style=flat-square&logo=gmail"></a> 
 
