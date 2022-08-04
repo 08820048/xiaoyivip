@@ -12,7 +12,7 @@
 
 
 
-- 🔭 太妙了，他还能挑对手！
+- 🔭 太妙了，他甚至还能挑对手！
 - 🤔 个人博客  [八尺妖剑の博客](https://www.waer.ltd)
 - 📫 联系邮箱: 
 <a href="mailto:ilikexff@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ilikexff@gmail.com-blue?style=flat-square&logo=gmail"></a> 
