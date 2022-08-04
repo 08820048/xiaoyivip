@@ -12,21 +12,17 @@
 
 
 
-- 🔭 软件专业废物大学生！
+- 🔭 太妙了，他还能挑对手！
 - 🤔 个人博客  [八尺妖剑の博客](https://www.waer.ltd)
 - 📫 联系邮箱: 
 <a href="mailto:ilikexff@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ilikexff@gmail.com-blue?style=flat-square&logo=gmail"></a> 
 
 ****
 
+#### 最廉价不过:
+> 一事无成的温柔,
+> 一贫如洗的真心和穷人的绅士。
 
-> 今天的云很好看,
-> 我想拍给你看,
-
-
-
-> 却想到我们很久不联系了,
-> 突然觉得,其实云没那么好看了。
 
 
 
